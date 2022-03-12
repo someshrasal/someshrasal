@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Let's Connect
+<p align="center">  
+<a href="https://twitter.com/somesh_rasal"><img src="https://img.shields.io/badge/-@Somesh_Rasal-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/somesh-rasal/"><img src="https://img.shields.io/badge/-Somesh%20Rasal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hi@someshrasal.com"><img src="https://img.shields.io/badge/-hi@someshrasal.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
+</p>
